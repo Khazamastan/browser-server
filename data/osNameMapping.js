@@ -1,0 +1,20 @@
+module.exports = {
+  "winxp": "Windows XP",
+  "win7": "Windows 7",
+  "win8": "Windows 8",
+  "win8_1": "Windows 8_1",
+  "win10": "Windows 10",
+  "macsl": "OS X Snow Leopard",
+  "maclion": "OS X Lion",
+  "macml": "OS X Mountain Lion",
+  "macmav": "OS X Mavericks",
+  "macyos": "OS X Yosemite",
+  "ios": "iOS",
+  "realios": "iOS",
+  "winphone": "Windows Phone",
+  "android": "Android",
+  "realdroid": "Real Android",
+  "macelc": "OS X El Capitan",
+  "macsie": "OS X Sierra",
+  "machs": "OS X High Sierra"
+}
